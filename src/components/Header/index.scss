@@ -1,0 +1,14 @@
+Nav {
+  img {
+    margin-left: 15px;
+  }
+
+  a {
+    color: #f1f1f1;
+
+    &:hover {
+      color: #9e9a9a;
+      text-decoration: none;
+    }
+  }
+}

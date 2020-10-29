@@ -1,0 +1,18 @@
+.list {
+  display: inline;
+  border-radius: 0;
+  width: 20%;
+  margin: 20px 15px 20px 1px;
+  
+  a {
+    color: #343A40;
+
+    &:hover {
+      text-decoration: none;
+      color: #343A40;
+    }
+  }
+
+}
+
+
